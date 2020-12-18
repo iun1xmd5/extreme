@@ -14,6 +14,8 @@ The dataset description is contained in dataset directory
 1. Tensoflow 2
 2. Keras 2.3.1
 3. Python 3.6
+4. Matplotlib 3.1.2
+5. tqdm 4.44.1
 
 
 # Reference
