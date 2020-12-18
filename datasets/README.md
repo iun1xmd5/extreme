@@ -1,4 +1,4 @@
-# The datasets used in ths paper can be downloaded from the links provided below:
+# The datasets used in this paper can be downloaded from the links provided below:
 
 - Yellow Taxi dataset [Downloada dataset here](https://data.cityofnewyork.us/Transportation/2014-Yellow-Taxi-Trip-Data/gkne-dk5s "taxi dataset")
 * Mawi dataset [Download dataset here](http://www.fukuda-lab.org/mawilab/ "mawi dataset")
