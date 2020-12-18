@@ -33,3 +33,7 @@ If you find this code useful in your research, please, consider citing our paper
 	YEAR = {2020},
 }
 ```
+# License
+OFA is distributed under Apache 2.0 license.
+
+Contact: Stephen Wambura (ceo@stephenwambura.com)
