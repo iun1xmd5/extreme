@@ -4,8 +4,8 @@
 ## Abstract
 _This paper proposes a generic memory-efficient framework for realtime stochastic extreme events prediction in complex time series systems such as intrusion detection, Internet of Things (IoT), social networks, stock markets etc. Ideally we exploit the expressiveness of deep neural networks and temporal nature of sequence-to-sequence structures (parallel Convolutional and recurrent neural networks) glued on Convolutional Quantile Loss and memory network to model explicitly extreme events. Convolutional Quantile Loss is used to predict future extreme events, while memory network is used to memorize extreme events in future observations. We show that the approach can capture long and short-term temporal effects as well as other non-linear dynamic patterns across multiple probabilistic time series with reliable principled uncertainty estimates. We demonstrate and validate empirically the effectiveness of the proposed framework via extensive experiments and rigorous evaluation on large-scale real world datasets. The experimental results showcase that the proposed method is fast, robust, accurate and has superior performance compared to the well-known prediction methods._
 
-## extreme.py 
-This file contains OFA implemetation algorithm 
+## baseTest.py 
+This file contains extreme implemetation algorithm together with other algos 
 
 ## Datasets
 The dataset description is contained in dataset directory
