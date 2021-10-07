@@ -36,4 +36,4 @@ If you find this code useful in your research, please, consider citing our paper
 # License
 OFA is distributed under Apache 2.0 license.
 
-Contact: Stephen Wambura (ceo@stephenwambura.com)
+Contact: Stephen Wambura (stephen.wambura@dit.ac.tz)
